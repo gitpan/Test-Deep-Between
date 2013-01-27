@@ -1,0 +1,25 @@
+.dim.pl
+.shipit
+Changes
+inc/Module/Install.pm
+inc/Module/Install/AuthorTests.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Repository.pm
+inc/Module/Install/WriteAll.pm
+lib/Test/Deep/Between.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+README
+t/000_load.t
+t/001_check_in_range.t
+t/002_not_numeric.t
+t/003_from_is_larger_than_to.t
+xt/perlcritic.t
+xt/pod.t
+xt/podcoverage.t
+xt/podspell.t
+xt/podsynopsis.t
